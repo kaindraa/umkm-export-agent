@@ -232,9 +232,15 @@ if st.button("Generate Report"):
         3. Buat query dengan gaya dan kedalaman yang berbeda, mencakup aspek umum dan spesifik sesuai kebutuhan outline.
         4. Jangan ambil query yang sama dengan yang sudah dicari.
 
-        Output dalam format list contohnya:
-        ["query_1", "query_2", "query_3"]
-        Saya ulangi, dalam format list ini sangat penting untuk karir saya hanya output list saja. saya ulangi, hanya dalam list saja. Pastikan agar bisa di proses oleh ast.literal_eval
+        Output format:
+        - Hasilkan output dalam format list JSON seperti ini: ["query_1", "query_2", "query_3", "query_4"]
+        - Pastikan setiap query berada di dalam tanda kutip ganda dan dipisahkan oleh koma.
+        - Tidak perlu menyertakan karakter tambahan atau deskripsi lain; hanya keluaran dalam format list JSON yang valid.
+
+        Contoh format yang benar:
+        ["query_1", "query_2", "query_3", "query_4"]
+
+        Saya ulangi, hasilkan hanya output dalam format list JSON seperti di atas.
         <END_PROMPT>
         """
 

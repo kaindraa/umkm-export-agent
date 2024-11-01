@@ -15,7 +15,7 @@ from langgraph.graph import START, END, StateGraph
 from tavily import TavilyClient
 
 # Judul aplikasi
-st.title("STP Report Generator")
+st.title("UMKM EXPORT AGENT: Laporan STP, Pengembangan Produk, dan Ekspansi Pasar bagi UMKM")
 
 # Meminta deskripsi produk dari pengguna
 product_description = st.text_area("Masukkan deskripsi produk Anda:")

@@ -85,7 +85,7 @@ if st.button("Generate Report"):
         def tavily_retriever_chain(queries):
             context = []
             for query in queries:
-                logs.append(f'[INFO] Mencari di Web: {query}')
+                logs.append(f'[INFO] 🔍 Mencari di Web: {query}')
                 cur_context = tavily_client.search(query=query, search_depth='advanced', max_results=3, max_tokens=10000)
 
                 for result in cur_context['results']:
@@ -233,14 +233,13 @@ if st.button("Generate Report"):
         4. Jangan ambil query yang sama dengan yang sudah dicari.
 
         Output format:
-        - Hasilkan output dalam format list JSON seperti ini: ["query_1", "query_2", "query_3", "query_4"]
-        - Pastikan setiap query berada di dalam tanda kutip ganda dan dipisahkan oleh koma.
-        - Tidak perlu menyertakan karakter tambahan atau deskripsi lain; hanya keluaran dalam format list JSON yang valid.
+        - Hasilkan output dalam format JSON list yang benar-benar satu baris, tanpa baris baru, spasi tambahan, atau indentasi.
+        - Format yang diinginkan: ["query_1", "query_2", "query_3", "query_4"]
 
         Contoh format yang benar:
-        ["query_1", "query_2", "query_3", "query_4"]
+        ["Analisis demografi konsumen pakaian olahraga premium di negara-negara ASEAN", "Geographic analysis of regions in ASEAN with high interest in sports and active lifestyle", "Tren pertumbuhan industri pakaian olahraga di ASEAN", "Strategi komunikasi pemasaran efektif untuk pakaian olahraga di pasar ASEAN"]
 
-        Saya ulangi, hasilkan hanya output dalam format list JSON seperti di atas.
+        Ulangi, hasilkan hanya output dalam format list JSON satu baris seperti di atas.
         <END_PROMPT>
         """
 

@@ -118,7 +118,7 @@ if st.button("Generate Report"):
             context = state['context']
             iteration_count = state['iteration_count']
 
-            if iteration_count > 1:
+            if iteration_count > 4:
                 is_continue = 'false'
                 logs.append('[INFO] ⏹️ Iterasi maksimum tercapai. Menghentikan proses iterasi.')
             else:

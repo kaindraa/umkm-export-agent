@@ -164,7 +164,7 @@ if st.button("Generate Report"):
         result: Optional[str]                          
 
     # Inisialisasi LLM dan rantai-rantai
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
 
     # Planner Chain
     planner_prompt_template = """

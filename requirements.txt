@@ -1,6 +1,7 @@
 streamlit
 typing-extensions
 langchain
+langchain-openai
 openai
 langgraph
 tavily-python

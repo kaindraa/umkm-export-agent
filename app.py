@@ -234,7 +234,7 @@ if st.button("Generate Report"):
 
         Output dalam format list contohnya:
         ["query_1", "query_2", "query_3"]
-        Saya ulangi, dalam format list ini sangat penting untuk karir saya hanya output list saja.
+        Saya ulangi, dalam format list ini sangat penting untuk karir saya hanya output list saja. saya ulangi, hanya dalam list saja. Pastikan agar bisa di proses oleh ast.literal_eval
         <END_PROMPT>
         """
 

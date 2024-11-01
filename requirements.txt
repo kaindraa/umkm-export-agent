@@ -3,4 +3,4 @@ typing-extensions
 langchain
 openai
 langgraph
-tavily
+tavily-python

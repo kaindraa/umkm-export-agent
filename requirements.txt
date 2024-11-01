@@ -1,0 +1,6 @@
+streamlit
+typing-extensions
+langchain
+openai
+langgraph
+tavily

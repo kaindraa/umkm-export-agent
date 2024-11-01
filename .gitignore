@@ -1,0 +1,18 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore everything in .streamlit except secrets.toml
+.streamlit/*
+
+# Ignore other generated files
+*.log
+*.sqlite3

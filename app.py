@@ -145,7 +145,7 @@ if st.button("Generate Report"):
             })
             logs.append('[INFO] 📄 Writer menghasilkan laporan akhir')
             log_placeholder.text("\n".join(logs))
-            output_placeholder.markdown(result)
+            st.markdown(result)
             return {'result': result}
 
         def decide_to_continue(state):

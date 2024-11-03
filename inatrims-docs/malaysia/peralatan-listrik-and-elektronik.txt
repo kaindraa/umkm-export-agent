@@ -1,0 +1,70 @@
+Regulasi Teknis dan Persyaratan Mutu Malaysia - Peralatan Listrik And Elektronik
+
+1. Undang-Undang.
+Act 235 Custom Act 1967 
+Undang-undang tentang kepabeanan Malaysia. Lihat informasi selengkapnya disini [http://www.customs.gov.my/ms/PERUNDANGAN%20GAZETTE/CUSTOMS%20ACT%201967.pdf].
+Act 599 Consumer Protection Act 1999 tahun 2019
+Undang-undang Perlindungan Konsumen. Lihat informasi selengkapnya disini [https://www.aseanconsumer.org/file/pdf_file/CONSUMER%20PROTECTION%20ACT%201999%20AMENDMENT%202019%20.pdf].
+Act 447 Electricity Supply Act 1990.
+Undang-undang untuk mengatur industri pasokan listrik, pasokan listrik dengan harga yang wajar, perizinan instalasi listrik, kontrol instalasi listrik, pabrik dan peralatan terkait dengan hal-hal keselamatan orang dan penggunaan listrik yang efisien serta tujuan yang terkait dengannya.
+Penagturan ditetapkan pada: Sec 4(l) - to prescribe the minimum standards & specifications & appraise & approve, where necessary, any electrical installation or equipment. Lihat informasi selengkapnya disini [https://www.st.gov.my/contents/2020/AKTA/Electric/Act%20447%20-%20Electricity%20Supply%20Act%201990.pdf].
+2. Regulasi.
+2.1 Requlasi Ketenagalistrikan.
+Regulasi (Electricity Regulations 1994 [https://www.st.gov.my/en/details/policies_details/7/2]) menetapkan ketentuan untuk instalasi, operasi dan pemeliharaan peralatan listrik serta mengatur tentang sertifikasi sesuai kategori profesi berikut:   untuk  Insinyur Layanan Listrik, Insinyur Listrik yang Kompeten, Pengawas Listrik, Chargeman, Wireman atau Cable Jointer.
+Pengaturan ditetapkan melalui:
+Reg 97 (1) - Certificate of Approval (CoA) is required to manufacture, import, display, sell or advertise of electrical equipment 
+Reg 97 (C) - Certificate of Registration (CoR) is required to manufacture & import of electrical equipment 
+Reg 98 - Marking or labelling of approved equipment Reg 101A – Efficient use of electricity equipment
+ 
+Lihat informasi selengkapnya disini [https://policy.asiapacificenergy.org/sites/default/files/Electricity%20Regulations%201994.pdf].
+2.2 Regulasi Produk Listrik dan Elektronik.
+Regulasi peralatan listrik ditetapkan berdasarkan kerangka undang-undang dan regulasi: Electricity Supply Act 1990; Electricity Regulations 1994, dan Electricity (Amendment) Regulations 2013, dengan tujuan untuk memastikan keamanan dan perlindungan konsumen.
+Lembaga berwenang terkait dengan pengujian ini adalah ”Energy Commission (Suruhanjaya Tenaga)”, yang mewajibkan registrasi dan sertifikasi yaitu Certificate of Approval (CoA).
+Pengujian didasarkan pada standar wajib untuk peralatan listrik, serta standar kinerja energi minimum yang ditentukan (Specified Minimum Energy Performance Standards) untuk peralatan listrik rumah tangga.
+Kategori peralatan listrik yang memerlukan CoA & pelabelan.
+Terdapat 34 jenis peralatan listrik yang diuji berdasarkan standar wajib, daftar peralatan dapat dilihat disini [https://www.st.gov.my/contents/files/download/158/LIST_OF_REGULATED_ELECTRICAL_EQUIPMENT_250718.pdf].
+ 
+Peralatan listrik rumah tangga yang termasuk wajib uji standar kinerja energi minimum:
+Air Conditioner, lihat pedomannya disini [https://www.st.gov.my/en/contents/files/download/95/20210108_-Guide_on_MEPS_for_AC_(UPDATED).pdf]
+Refrigerator, lihat pedomannya disini [https://www.st.gov.my/en/contents/files/download/95/20210108-Guide_on_MEPS_Requirement_for_Refrigerator_(UPDATED)_.pdf].
+Domestic Fan: diuji berdasarkan standar MS 2574:2014
+Lamps: duji verdasarkan standar MS 2598:2014
+Television, lihat pedomannya disini [https://www.st.gov.my/contents/2019/Energy%20Efficiency/Guide%20on%20MEPS%20TV.pdf].
+Washing Machine, lihat pedomannya disini [https://www.st.gov.my/en/contents/files/download/95/20210113_-_Guide_on_MEPS_for_Washing_Machine_(UPDATED).pdf].
+Microwave Oven, lihat pedomannya disini [https://www.st.gov.my/contents/2020/Downloads/Guide%20on%20MEPS%20Microwave%20Oven%20Issue%20Date%2001%20MARCH%202020.pdf].
+Electric Rice Cooker, lihat pedomannya disini [https://www.st.gov.my/contents/2021/Downloads/Energy%20Labelling/Guide%20on%20MEPS%20Electric%20Rice%20Cooker_FINAL.pdf].
+Freezer, lihat pedomannya disini [https://www.st.gov.my/contents/2021/Downloads/Energy%20Labelling/Guide%20on%20MEPS%20Freezer%20%5BUpdated_1%20March%202021%5D.pdf].
+ 
+Lihat informasi selengkapnya disini [https://asean.org/wp-content/uploads/2022/12/REGULATORY-REGIME-OF-MALAYSIA-UpdateList_October-2022.pdf].
+3. Prosedur Aplikasi Certificate of Approval (COA)
+Pendaftaran Secara Online 
+Komisi Energi (Suruhanjaya Tenaga) telah mengembangkan sistem online untuk aplikasi Certificate of Approval (CoA) untuk impor dan manufaktur peralatan listrik rumah tangga. Efektif 1 Oktober 2010, semua aplikasi dilakukan secara online melalui sistem e-Permit yang dioperasikan oleh DagangNet Technologies Sdn. Bhd.(DagangNet).
+Untuk mengimpor peralatan listrik rumah tangga, pemohon atau agen lokal harus mendaftar ke DagangNet. Setelah terdaftar, pemohon dapat melanjutkan untuk melamar secara elektronik. Pelamar diharuskan untuk mengajukan Sertifikat Pendaftaran untuk Manufaktur/Impor sebelum ia dapat melanjutkan dengan aplikasi Sertifikat Persetujuan (CoA).
+Suruhanjaya Tenaga akan mengeluarkan CoA jika aplikasi sudah beres (laporan tes dan semua dokumen yang diperlukan diserahkan dan biaya dibayarkan ke Suruhanjaya Tenaga).
+e-Permit dapat diakses disini [http://epermit.dagangnet.com/]
+Prosedur Aplikasi Certificate of Approval Lainnya:
+Aplikasi Baru untuk Impor / Manufaktur. Prosedur aplikasi baru Certificate of Approval, dapat dilihat disini [https://www.st.gov.my/en/contents/article/application/2015/kelengkapan/New_Application_to_Import_Manufacture_COA.pdf].
+Aplikasi untuk Pembaruan Certificate of Approval, (Impor / Manufaktur). Prosedur aplikasi pembaruan Certificate of Approval, dapat dilihat disini [https://www.st.gov.my/en/contents/article/application/2015/kelengkapan/Application_for_Renewal_of_COA_Import_Manufacture.pdf].
+Aplikasi Certificate of Approval, untuk Pameran. Prosedur aplikasi Certificate of Approval untuk pameran dapat dilihat disini [https://www.st.gov.my/en/contents/article/application/2015/kelengkapan/COA_Application_for_Exhibition.pdf].
+4. Standar.
+Beberapa Contoh Standar Peralatan Listrik.
+MS IEC 60335-1:2013 Household and similar electrical appliances - Safety - Part 1: General requirements (Second Revision) (IEC 60335-1:2006, IDT) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IlZqYWEzNkZ6ZzRyREV0U2lTRWdtblE9PSIsInZhbHVlIjoiRXlUZDVPMTltKzVFTDFhNXNpcHpuZz09IiwibWFjIjoiM2JkOTMzZmRhMDc2MzEyMDYzZGJhYjI2MDcyNTI2Y2FhOGU4OTkyNTZlMDgzMjFiMzc4NWRhMGViYTEwNGYzNCJ9]
+MS IEC 60335-2-6:2014 Household and similar electrical appliances - Safety - Part 2-6: Particular requirements for stationary cooking ranges, hobs, ovens and similar appliances (Third revision) (IEC 60335-2-6: 2008, IDT) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6Ik5mYVJJMWVWdS95YkwrTlVrYkFSVHc9PSIsInZhbHVlIjoiVG9zUEhnVFFQUWp0NmRzUkhNVGhnQT09IiwibWFjIjoiMWNlMjk5ZmYwOGMxMGJjNjNiMTUxYWVhZDc1YmU1MzM5Mzc3NTk4YWQzZmJiMTJmNmVkNTViYzJiZWUzZTkxZSJ9]
+MS IEC 60335-2-9:2014 Household and similar electrical appliances - Safety - Part 2-9: Particular requirements for grills, toasters and similar portable cooking appliances (Forth revision) (IEC 60335-2-9:2008, IDT) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6Imd2enVuMjA5c21SRThCUFpUL0FXWGc9PSIsInZhbHVlIjoidmRZa2FwenlIMFdhT1FPRVpIMUFwZz09IiwibWFjIjoiMWUwNmZjYWRlOTY0NmIyNWIzY2E3OTcwY2Q1ZWQ2MTRmODg2ZmEwZjRjZWQ4MDA3MmIwM2NmYzMxNjZiY2U2NSJ9]
+MS IEC 60335-2-4:2007 Household And Similar Electrical Appliances - Safety - Part 2-4: Particular Requirements For Spin Extractors (First Revision)(Iec 60335-2-4:2006, IDT) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6ImZOY1hCa0g2VjA3Rk9tZi9SNEdPVXc9PSIsInZhbHVlIjoiZkJBaTBlTEhlcVRIWStWeHdGR0FnQT09IiwibWFjIjoiMWEyYmVhOGY1OWQ5Njc4ZWYyNWFiNTE2MjJmNGVlZjgyMDY2OGEwMDllY2VhZjFkY2VkMjM5OWNkZjY5NTEzMSJ9]
+MS IEC 60335-2-3:2006 Household And Similar Electrical Appliances - Safety - Part 2-3: Particular Requirements For Electric Iron (Iec 60335-2-3:2005, IDT) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IlhHTG9TM3U4YWlrMVN2cTZsTysxb2c9PSIsInZhbHVlIjoiVEdGSncxNFpHWi9IdGowQ1hQUHBxQT09IiwibWFjIjoiYjFmMWI3YWMxZGQzNWIyYzcwOTYwZjIxNGQyMWM3MWNmMDEyNjM0NDUyZjY4NTk3ZTZiZDRmNDQ1YzI0NWQ5MCJ9]
+MS IEC 60034-11:2007 (CONFIRMED:2015) Rotating electrical machines - Part 11: Thermal protection (IEC 60034-11:2004, IDT) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IlV0Q0FzOUc0L2l4U05RUWxqeDRRNVE9PSIsInZhbHVlIjoiS2NOWi9CbURKVVRTRzFPR3FPNXRNZz09IiwibWFjIjoiNWM5ZjQwNGQxY2VlZGYwMTIyNWYxNGM1ZDI1ZTkwODlhOWNkMjQ5MjUwYjRlNmQ3NzY5ZDI1MzlmNTBkMGFhZCJ9]
+MS CISPR 14-2:2012 Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part 2: Immunity - Product family standard (Second revision) (CISPR 14-2:2008, IDT) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IjlZM0FKZ2FpancwYlp1WkhxSW9HK3c9PSIsInZhbHVlIjoiOUFsenczaXAxYXdwRFNCTmRRU2RyZz09IiwibWFjIjoiNjk5ZjkwZmE5OGI2ZmUzZjdlYjU3YTE3MjczMjc4NjgyNTkxODk2MWQ2YTdjNWVhYzA1YzlhMTE0YjlhZjljOCJ9]
+MS CISPR 14-1:2012 Electromagnetic compatibility - Requirements for household appliances, electric tools and similar apparatus - Part 1: Emission (Third revision) (CISPR 14-1:2009, IDT) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IkR4a3FhTmpLbFR4Slh4d0RtbnFNdUE9PSIsInZhbHVlIjoiSDYzYkEvaTFqR28zQTZiTnAwd1lIdz09IiwibWFjIjoiYjY5ZTNiNTRkZGJkMDA4MDkzNzcyZTI0ZjU5NDQ1YWM1ZWU5NTJkNmM2MTI4ZTkxMWY1NTQ4Y2ZkNzVhZGJiMCJ9]
+ 
+Lihat informasi selengkapnya disini [https://mysol.jsm.gov.my/].
+5. Lembaga Berwenang.
+Ministry of Investment, Trade, and Industry [https://www.miti.gov.my/]
+Lembaga yang bertanggung jawab atas perdagangan internasional, industri, investasi, produktivitas, usaha kecil dan menengah, lembaga keuangan pembangunan, industri halal, otomotif, baja, dan perdagangan strategis. Salah satunya menerbitkan izin impor.
+Suruhanjaya Tenaga (ST)  [https://www.st.gov.my/]
+Lembaga yang bertanggungjawab untuk mengatur mengenai industry listrik dan elektronika serta gas.
+SIRIM Berhad [https://www.sirim.my/]
+SIRIM Berhad, yang sebelumnya dikenal sebagai Standard and Industrial Research Institute of Malaysia (SIRIM), adalah organisasi terkait mutu dan standar dari Malaysia. SIRIM yang dibawahi oleh oleh Minister of Finance Incorporated.
+Suruhanjaya Serikat Malaysia (SMM) [https://www.ssm.com.my/Pages/Home.aspx]
+Lembaga yang bertanggungjawab untuk mengatur pendaftaran produsen dan importir di Malaysia.
+

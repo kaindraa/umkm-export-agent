@@ -1,0 +1,49 @@
+## Rangkuman Umum
+
+Folder ini berisi dokumen yang terkait dengan regulasi teknis dan persyaratan mutu di Malaysia untuk berbagai produk. Isinya mencakup undang-undang, kebijakan pemerintah, serta standar dan sertifikasi yang harus diikuti oleh produk-produk tertentu, seperti alat kesehatan, kosmetik, mainan anak, produk makanan, mesin dan peralatan, produk karet, dan produk otomotif. Setiap dokumen menjelaskan aspek keselamatan, pendaftaran, dan regulasi yang harus diikuti oleh produsen dan importer untuk memastikan kepatuhan terhadap standard yang ditetapkan.
+
+---
+
+### Rangkuman File:
+
+1. **alas-kaki.txt**: Mencakup regulasi dalam keamanan produk alas kaki, termasuk standar MS untuk safety footwear yang digunakan dalam kerja konstruksi di Malaysia.
+
+2. **baterai.txt**: Mengatur sertifikasi dan syarat keselamatan untuk baterai yang dijual di Malaysia, termasuk keharusan memiliki Certificate of Conformance dan penandaan sesuai persyaratan hukum.
+
+3. **hasil-hutan-kayu.txt**: Memuat kebijakan kehutanan nasional dan berbagai undang-undang terkait yang mengatur pengelolaan daya hutan serta perdagangan hasil hutan kayu.
+
+4. **kakao.txt**: Mengulas regulasi pangan yang berlaku untuk kakao dan produk turunannya di Malaysia, termasuk standar kualitas dan prosedur pemenuhan hukum.
+
+5. **kelapa.txt**: Menyajikan spesifikasi produk turunan kelapa di Malaysia, termasuk minyak kelapa, krim kelapa, dan memenuhi standar kesehatan pangan yang relevan.
+
+6. **kopi.txt**: Menguraikan peraturan terkait keamanan dan label pada produk kopi di Malaysia, termasuk regulasi terkait residu pestisida dan prosedur impor.
+
+7. **kosmetik.txt**: Menggambarkan regulasi dan standardisasi produk kosmetik di Malaysia di bawah undang-undang Control of Drugs and Cosmetics Regulation 1984.
+
+8. **lampu-led.txt**: Menjabarkan standar keselamatan dan kinerja untuk lampu LED yang dipasarkan di Malaysia, termasuk beberapa standar internasional yang terkait.
+
+9. **mainan-anak.txt**: Mengatur standar keselamatan produk mainan anak, termasuk konsumsi hukum dan pelabelan yang diperlukan untuk melindungi anak sebagai kelompok rentan.
+
+10. **mesin-and-peralatan.txt**: Menyajikan regulasi keselamatan dan standar yang mengatur produksi serta penggunaan mesin dan peralatan di Malaysia.
+
+11. **minyak-atsiri.txt**: Mengatur persyaratan kualitas untuk minyak atsiri yang beredar di pasar Malaysia, mencakup karakteristik fisik dan prosedur pengujian.
+
+12. **minyak-sawit.txt**: Menyajikan regulasi tentang produsen dan pengelolaan produk minyak sawit yang menekankan keberlanjutan serta standar kualitas dan pelabelan.
+
+13. **obat-herbal.txt**: Menguraikan ketentuan dan prosedur pendaftaran untuk produk obat herbal di Malaysia menurut regulasi yang berlaku.
+
+14. **pangan-olahan.txt**: Menyediakan panduan tentang penggunaan serta label untuk pangan olahan sesuai dengan Food Act 1983 dan Food Regulations 1985 di Malaysia.
+
+15. **peralatan-listrik-and-elektronik.txt**: Menjabarkan undang-undang dan regulasi terkait keselamatan peralatan listrik dan elektronik, termasuk prosedur sertifikasi yang harus dijalani.
+
+16. **produk-komponen-otomotif.txt**: Menguraikan regulasi tentang sertifikasi dan keamanan sekitar produk komponen otomotif menurut standar internasional.
+
+17. **produk-karet.txt**: Mengatur standar keamanan untuk produk berbahan dasar karet, termasuk regulasi mengenai ban kendaraan dan spesifikasi lain yang berlaku.
+
+18. **produk-tekstil.txt**: Mengulas undang-undang yang mengatur produksi dan standar untuk produk tekstil yang berlaku di Malaysia, mencakup berbagai spesifikasi tekstil dan pakaian.
+
+19. **produk-perikanan.txt**: Menguraikan regulasi yang terkait dengan produk perikanan, termasuk undang-undang, kebijakan, dan kualitas pangan yang ditetapkan untuk ikan dan produk perikanan lainnya.
+
+---
+
+File **rangkuman.txt** ini dapat menjadi acuan untuk memahami regulasi dan persyaratan mutu di Malaysia bagi berbagai kategori produk yang ada.

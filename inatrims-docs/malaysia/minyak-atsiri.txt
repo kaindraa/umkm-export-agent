@@ -1,0 +1,121 @@
+Regulasi Teknis dan Persyaratan Mutu Malaysia - Minyak Atsiri
+
+Persyaratan mutu minyak atsiri di Malaysia secara umum ditentukan dengan:
+Penampilan
+Warna
+Bau
+Kerapatan Relative
+Indek Bias
+Optical Rotation: Rotasi spesifik suatu zat didefinisikan sebagai rotasi optik larutan yang mengandung 1 g / ml dalam tabung polarimeter 100 mm. Hal ini dipengaruhi oleh suhu (suhu referensi 20 ° C) dan panjang gelombang (biasanya garis natrium D, 589 nm, digunakan), dan dapat diukur dengan polarimeter Reichert.
+Miscibility in ethanol: Penentuan kelarutan minyak atsiri dalam etanol, kelarutan minyak atsiri ditentukan dalam etanol pada 70%, 80%, 90%, dan dalam etanol absolut.
+Ester value after acetylation: Nilai kandungan alkohol bebas dan alkohol total dalam minyak atsiri dengan penentuan nilai ester sebelum dan sesudah asetilasi oleh anhidrida asetat dengan adanya natrium asetat
+Carbonyl value: massa potasium hidroksida dalam mg yang setara dengan massa hidroksilamina yang dibutuhkan untuk mengoksidasi karbonil yang ada dalam 1 g minyak esensial. Metode pengujian ini tidak berlaku untuk minyak atsiri yang mengandung ester dalam jumlah besar dari unsur penyusun alkali lainnya.
+Chromatographic profile: hasil penujian Chromatographic untuk  pemisahan dan penentuan kuantitatif kelompok kritis komponen dalam minyakatsiri
+Titik Nyala
+Standar minyak atsiri Malaysia:
+Persyaratan Minyak Atsiri Citronel tipe Sri Lanka: MS ISO 3849:2008
+Penampilan: Clear mobile liquid.
+Warna: Kuning pucat sampai kuning kecoklatan pucat.
+Bau: Berdaun, bersahaja.
+Kerapatan relatif pada 20 ° C: Minimal: 0,891 0; Maksimum: 0,910 0
+Indeks bias pada 20 ° C: Minimal: 1,479 0; Maksimum: 1,490 0
+Optical rotation at 20 °C: Between - 25° and - 12°.
+Miscibility in ethanol, 80 % (volume fraction), at 20 °C: Tidak perlu menggunakan lebih dari 2 volume etanol, 80% (fraksi volume), untuk mendapatkan larutan bening dengan 1 volume minyak esensial.
+Ester value after acetylation:Minimum: 157; Maximum: 200
+Carbonyl value: Minimum: 18, corresponding to 5 % of carbonycompounds, expressed as citronellal; dan Maximum: 55, corresponding to 15 % of carbonycompounds, expressed as citronellal.
+Chromatographic profile: Analisis minyak atsiri harus dilakukan dengan gaschromatography. Dalam kromatogram yang diperoleh, komponen representatif dan karakteristik yang ditunjukkan pada Tabel 1 harus diidentifikasi. Proporsi komponen ini, ditunjukkan oleh integrator, harus seperti yang ditunjukkan pada tabel profil kromatografi minyak atsiri.
+Flashpoint (Titik Nyala): Untuk alasan keamanan, perusahaan transportasi, perusahaan asuransi, dan orang-orang yang bertanggung jawab atas layanan keselamatan memerlukan informasi tentang titik nyala minyak atsiri sebagai salah satu produk yang mudah terbakar. Titik nyala rata-rata adalah + 61 ° C.
+Standar: MS ISO 3849:2008 OIL OF CITRONELLA, SRI LANKA TYPE  [http://www.egw.web.id/inatrims/data/uploads/malaysia/ms-iso-3849-2008-oil-of-citronella-sri-lanka-type-694822.pdf]
+Persyaratan Minyak Atsiri OIL OF BLACK PEPPER (Piper nigrum L.) MS ISO 3061:2009
+Penampilan: Clear mobile liquid.
+Warna: Tidak berwarna atau berwarna terang (kuning, hijau, biru).
+Bau: spicy, woody.
+Relative density at 20 °C:
+ 
+India
+Sri Lanka
+Indonesia
+Madagaskar
+Minimum
+0,864
+0,861
+0,861
+0,864
+Maximum
+0,880
+0,867
+0,885
+0,884
+ 
+Refractive index at 20 °C
+ 
+India
+Sri Lanka
+Indonesia
+Madagaskar
+Minimum
+1,478
+1,475
+1,480
+1,475
+Maximum
+1,487
+1,490
+1,493
+1,490
+ 
+Optical rotation at 20 °C
+ 
+India
+Sri Lanka
+Indonesia
+Madagaskar
+Minimum
+- 18°
+- 17°
+- 17°
+- 18°
+Maximum
+- 7°
+- 8°
+- 6°
++ 20°
+Miscibility with 95 % (volume fraction) ethanol at 20 °C: Tidak perlu menggunakan lebih dari 3 volume etanol 95% (fraksi volume) untuk mendapatkan larutan bening dengan 1 volume minyak atsiri.
+Chromatographic Profile: Analisis minyak atsiril dilakukan dengan kromatografi gas. Pada kromatogram diperoleh, komponen representatif dan karakteristik  Chromatographic.
+Titik Nyala: Titik nyala rata-rata adalah +48 ° C (diperoleh dengan tipe Madagaskar).
+Standar: MS ISO 3061:2009 OIL OF BLACK PEPPER (Piper nigrum L.) (ISO 3061:2008, IDT) [http://www.egw.web.id/inatrims/data/uploads/malaysia/ms-iso-30612009-oil-of-black-pepper-piper-nigrum-l.-869533.pdf]
+ 
+Persyaratan Mutu Minyak Atsiri Oil of Cumen Seed: MS 9301:2009
+Penampilan: Clear mobile liquid.
+Warna: Coklat gelap sampai kuning tua.
+Bau: Intens dan agak berlemak dan herba.
+Kerapatan relatif pada 20 ° C: Minimal: 0,900 0; Maksimum: 0,940 0
+Indeks bias pada 20 ° C: Minimal: 1,490 0; Maksimum: 1,515 0
+Rotasi optik pada suhu 20 ° C: Antara + 1 ° dan + 9 °.
+Kegagalan dalam etanol, 80% (fraksi volume), pada suhu 20 ° C: Tidak perlu menggunakan lebih dari 8 volume etanol, 80% (volume  ransum), untuk mendapatkan solusi yang jelas dengan 1 volume minyak atsiri.
+Nilai karbonil: Harus mengandung dari 45% sampai 58% senyawa karbonil, yang dinyatakan sebagai aldehida cuminik.
+Chromatographic Profil: Analisis minyak esensial dilakukan dengan kromatografi gas. Pada kromatogram yang diperoleh, komponen representatif dan karakteristik Profil Kromatografi.
+Titik Nyala: Titik nayala rata-rata adalah +48 ° C.
+Standar: MS ISO 9301:2009 OIL OF CUMIN SEED (Cuminum cyminum L [http://www.egw.web.id/inatrims/data/uploads/malaysia/ms-iso-93012009-oil-of-cumin-seedcuminum-cyminum-l.-870588.pdf])
+ 
+Persyaratan Minyak Atsiri Oil of Nutmeg, Indonesian Type MS ISO 3215:2009
+Penampilan: Clear mobile liquid.
+Warna: Almost colourless to light yellow.
+Bau: Spicy, sweet, aromatic, with characteristic nuances.
+Relative density at 20 °C: Minimum: 0,885; Maximum: 0,907
+Refractive index at 20 °C: Minimum: 1,475 0; Maximum: 1,485 0
+Optical rotation at 20 °C: Antara + 6° and + 18°.
+Miscibility in ethanol (volume fraction 90%) at 20 °C: 1 volume minyak tidak memerlukan lebih dari 5 volume etanol (fraksi volume 90%) untuk mendapatkan larutan, terkadang dengan opalesensi. Namun, volume 3 atau 4 cukup memadai untuk minyak segar.
+Residue on evaporation: Maximum: 2%
+Chromatographic Profile: Analisis minyak esensial dilakukan dengan kromatografi gas. 
+Standar: MS ISO 3215:2009 OIL OF NUTMEG, INDONESIAN TYPE (Myristica fragrans Houtt.) (ISO 3215:1998, IDT) [http://www.egw.web.id/inatrims/data/uploads/malaysia/ms-iso-32152009-oil-of-nutmeg-indonesian-typemyristica-fragrans-houtt.-869573.pdf]
+Referensi Standar Internasional:
+ISO/R 210, Essential oils - Packing
+ISO/R 211, Essential oils - Labelling and
+marking containers
+ISO 212, Essential oils - Sampling
+ISO 11024-1, Essential oils – General guidance on chromatographic profiles -
+Part 1: Preparation of chromatographic profiles for presentation in standards
+ISO 11024-2, Essential oils – General guidance on chromatographic profiles -
+Part 2: Utilization of chromatographic profiles of samples of essential oils 
+

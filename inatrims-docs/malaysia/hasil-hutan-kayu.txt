@@ -1,0 +1,147 @@
+Regulasi Teknis dan Persyaratan Mutu Malaysia - Hasil Hutan Kayu
+
+1. Kebijakan Kehutanan Nasional (National Forestry Policy).
+Kebijakan kehutanan nasional ini mencakup beberapa ketentuan dalam bentuk undang-undang (Acts), Kebijakan, dan pangaturan lainnya, Selengkapnya dapat dilihat disini. [https://www.forestry.gov.my/en/about-us/national-forestry-policy]
+2. Undang-Undang.
+Beberapa undang-undang yang termasuk dalam Kebijakan Hutan Nasional.
+Undang-undang Kehutanan Nasional 1984
+Act 313 National Forestry Act 1984 [https://www.forestry.gov.my/images/JPSM/wargaperhutanan/AktaAPN_en.pdf].
+Undang-undang ini, serta perubahannya disusun untuk menyeragamkan undang-undang kehutanan yang membahas isu-isu berkaitan dengan administrasi, pengelolaan, dan konservasi kehutanan, ditambah pembangunan hutan, memberi Pemerintah Malaysia kewenangan untuk menunjuk petugas yang bertanggung jawab merancang rencana pengelolaan hutan dan restorasi, menangani laporan pembangunan hutan tahunan, dan mengelola anggaran tahunan.
+Undang-undang ini juga mengklasifikasikan Permanent Forest Estates (PFE) dan perusahaan yang produknya berasal dari PFE atau negara lain dianggap sebagai milik Otorita Negara, dan oleh karena itu hanya boleh diekstraksi dengan lisensi yang layak.
+Undang-Undang Industri Berbasis Kayu (Kekuasaan Badan Legislatif Negara Bagian) 1984
+Wood Based Industry (Powers of the State Legislature) Act 1984 [https://www.forestry.gov.my/images/stories/pdf/Akta/Akta%20314%20-%20BM.pdf]
+Undang-undang untuk memberdayakan Badan Legislatif Negara Bagian untuk mengesahkan undang-undang sehubungan dengan pembentukan dan pengoperasian industri dasar kayu.
+Undang-Undang Dewan Industri Kayu Malaysia (Pendirian) 1973          
+Akta 105 - Malaysian Timber Industry Board (Incorporation) Act 1973 [https://www.forestry.gov.my/images/stories/pdf/Akta/Akta%20105%20-%20Akta%20Lembaga%20Perindustrian%20Kayu%20Malaysia%20(Pemerbadanan)%201973%20-%20BM-%20AKTA%20%20105.pdf]       
+Undang-undang untuk mencabut Undang-Undang Dewan Industri Ekspor Kayu Malaysia (Pendirian) 1966 dan membubarkan Dewan Industri Ekspor Kayu Malaysia, untuk membentuk Dewan Industri Kayu Malaysia dan menyediakan hal-hal yang relevan, dan untuk membuat ketentuan yang lebih baik terkait dengan industri kayu Malaysia.
+Undang-undang Perdagangan Internasional Species Terancam Punah.
+Act 686 International Trade in Endangered Species Act 2008 [https://cites.org/sites/default/files/projects/NLP/Malaysia_wildllife_Act686-5_8_2014.pdf].
+Undang-undang untuk melaksanakan Konvensi Perdagangan Internasional Spesies Fauna dan Flora Liar yang Terancam Punah dan untuk mengatur hal-hal lain yang terkait dengannya.
+3. Regulasi.
+3.1 Aturan Penilaian Kayu Gergajian (Grading Rules of Timber).
+Malaysian Timber Industry Board (MTIB) merilis edisi baru Malaysian Grading Rules for Sawn Hardwood Timber (MGR) pada 2009 yang menggantikan edisi sebelumnya (edisi 1984). Pertimbangan penyusunan MGR adalah untuk memastikan kualitas bagi pembeli kayu Malaysia.
+Aspek terpenting dari MGR adalah berkaitan dengan kualitas penampilan kayu gergajian. Bagian utama dari aturan menyangkut kualitas pemotongan ("Sistem Pemotongan") dan jumlah cacat pemotongan yang diizinkan di setiap kelas ("Sistem Cacat"). Aturan tersebut dirancang untuk menghilangkan cacat akibat produksi dan membatasi jumlah cacat alami yang diizinkan di bawah setiap kelas.
+Spesifikasi Pasar Umum tersedia untuk kayu, misalnya, papan, yang biasanya digergaji ulang sebelum digunakan dan kayu dinilai menurut Sistem Pemotongan (Cutting System)..
+Spesifikasi Pasar Khusus berkaitan dengan kayu untuk tujuan tertentu dan ukuran akhir biasanya ditentukan, misalnya, bantalan kereta api dan lengan silang.
+Tabel berikut menggambarkan dua metode spesifikasi dan sistem yang dapat digunakan untuk menilai kayu untuk berbagai keperluan.
+Spesifikasi Pasar Umum (General Market Specification).
+Specification
+System Used
+Grades Available
+(i) Boards/Planks
+Cutting System
+(i) Prime
+					(ii) Select
+					(iii) Standard
+					(iv) Sound
+					(v) Serviceable
+					(vi) Utility
+Spesifikasi Pasar Khusus (Special Market Specification).
+Specification
+System Used
+Grades Available
+(i) Prime Wides and Panels
+Cutting System
+(i) Prime
+(ii) Strips
+Cutting System
+(i) Prime
+					(ii) Select
+					(iii) Standard
+					(iv) Sound
+					(v) Serviceable
+					(vi) Utility
+(iii) Scantlings
+Defect System
+(i) Select & Better
+					(ii) Standard
+					(iii) Sound
+					(iv) Serviceable
+					(v) Utility
+(iv) Sleepers
+Defect System
+(i) Select & Better
+					(ii) Standard & Better
+(v) Shorts
+Defect System
+(i) Prime
+					(ii) Select
+					(iii) Standard
+					(iv) Sound
+					(v) Serviceable
+(vi) Cross Arms
+Defect System
+(i) Select & Better
+					(ii) Standard & Better
+(vii) Wagon Planks
+Defect System
+(i) Wagon Plank
+(viii) Large Scantlings & Squares
+Defect System
+(i) Large Scantling & Squares
+(viii) Decks
+Defect System
+(i) Decks
+Lihat informasi selengkapnya disini [https://mtc.com.my/resources-MalaysianGradingRules.php].
+Catatan:
+Meskipun penilaian tidak lagi wajib, MGR tetap sebagai alat jaminan bagi pembeli yang membeli kayu Malaysia. Pembeli yang sudah akrab dengan kayu Malaysia biasanya melewati proses penilaian. Jika pembeli mencari kepastian untuk mendapatkan kualitas yang mereka inginkan, mereka harus memesan kayu bergradasi. MGR dirancang untuk memberikan pernyataan kualitas pada kayu gergaji yang dikirim dari Malaysia.
+3.2 Ketentuan Kemasan Kayu.
+Malaysia menerapkan International Standard for Phytosanitary Measures No. 15 (ISPM 15) untuk kemasan berbahan kayu. Standar Internasional tindakan fitosanitasi untuk mengatur perlakuan bahan kemasan kayu untuk memfasilitasi perdagangan bebas dan menghindari penggunaan tindakan yang tidak dapat dibenarkan sebagai hambatan perdagangan.
+Prosedur impor Bahan Kemasan Kayu (Wood Packaging Materials - WPM)
+Semua eksportir harus menyatakan, "kiriman ini mengandung bahan kemasan kayu", dengan membubuhkan pada manifes / faktur / daftar kemasan.
+Semua importir harus mengajukan permohonan inspeksi / izin ke Bea Cukai / Otoritas Pelabuhan setidaknya 24 jam sebelum kedatangan kargo untuk semua komoditas yang disertai dengan WPM.
+Pada saat kedatangan, WPM harus menjalani pemeriksaan dan pemeriksaan oleh Petugas MAQIS atau Pejabat Berwenang.
+Semua trans-shipment dapat diperiksa / dibersihkan di pelabuhan akhir tujuan.
+Semua WPM harus memiliki tanda yang diperlukan / disetujui. Tidak ada persyaratan tanggal untuk menjadi bagian dari penandaan yang disetujui per ISPM 15.  Tidak ada dokumentasi lain yang diperlukan untuk rilis WPM.
+ 
+Lihat informasi selengkapnya disini [https://www.bing.com/search?q=PROCEDURES+ON+IMPLEMENTATION+OF+ISPM+NO.+15+FOR++IMPORTS+malaysia&qs=n&form=QBRE&sp=-1&lq=1&pq=procedures+on+implementation+of+ispm+no.+15+for++imports+malaysia&sc=1-65&sk=&cvid=8DBA81D023C743F78AF6E7AC45634508&ghsh=0&ghacc=0&ghpl=]
+Catatan:
+Bagi eksportir Indonesia sangat penting untuk mematuhi regulasi ISPM 15 bila menggunakan kayu sebagai kemasan produk ekspor.
+3.3 Persyaratan Perdagangan Internasional.
+Keberlanjutan dan legalitas perdagangan kayu adalah isu-isu yang menjadi perhatian internasional. Malaysia secara aktif terlibat dalam berbagai forum internasional, seperti FAO, ITTO, Forum PBB tentang Hutan dan Konvensi Perdagangan Internasional tentang Spesies Terancam Punah (CITES) untuk mempromosikan tidak hanya kepentingan Malaysia tetapi juga kepentingan negara-negara penghasil kayu tropis lainnya.
+Skema Jaminan Legalitas Kayu Malaysia.
+Malaysia mendukung inisiatif global dalam memerangi pembalakan liar dan perdagangan kayu ilegal. Untuk mendukung Peraturan Kayu Uni Eropa (EUTR) dan sambil menunggu kesimpulan dari negosiasi VPA FLEGT UE, Malaysia memulai implementasi Skema Jaminan Legalitas Kayu Semenanjung Malaysia [MYTLAS (Semenanjung Malaysia)] dan TLAS Sabah untuk menjamin legalitas kayu dan produk kayunya yang diekspor ke UE. Demikian pula, Sarawak juga telah menerapkan Sistem Verifikasi Legalitas Kayu Sarawak (STLVS) untuk memperkuat keterlacakan rantai pasokan produksi kayu legalnya.
+Catatan:
+Karena Malaysia menerapkan sistem verifikasi lrgalitas kayu, maka bagi eksportir Indonesia, sangat penting untuk memberikan jaminan legalitas kayu yang akan diekspor ke Malaysia, termasuk spesies kayu yang dilindungi oleh Konvensi Perdagangan Internasional tentang Spesies Terancam Punah.
+4. Standar.
+Standar Panel Kayu.
+MS 1787-1:2020 wood-based panels - Part 1: Determination of dimensions of panels (First revision) (ISO 16999:2003, MOD) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IkY5c2ZnNWZCWmZvbEZMNU1rVkZGVVE9PSIsInZhbHVlIjoiVkxlZjI1ZFNkNGZxL05BOUF0TE5UQT09IiwibWFjIjoiMjQ2M2NiMjI1YmNjZWQzNDM3YWNmMTRiYWJjMzVlMmJmZDFkNjMwMDQ5YTg2MmViNmZjNWJlMzhlNTVhYzhiNCJ9]. This Malaysian Standard specifies a method for measuring the thickness, width and length, as well as the squareness, edge straightness and flatness of wood- based panels.
+MS 1787-2:2020 wood-based panels - Part 2: Sampling and cutting of test pieces (First revision) (ISO 16999:2003, MOD) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IlFIQTI4SThaendITjZ1NWpuRFpRUHc9PSIsInZhbHVlIjoiYUg0TFoyVzNZT3RYeVBZNU5iM0xvQT09IiwibWFjIjoiN2U4MGViOWRlMmY5NTkwOTUxODdkZDM3NWQ4YmE5ZGE5YmM2MjcxZWVlMzQzMzc4ZjFkNGUzODFiMGFhOWIxNyJ9] This Malaysian Standard specifies certain rules for the sampling and cutting of test pieces, does not cover the sampling and cutting of test pieces.
+MS 1787-3:2022 wood-based panels – Part 3: Determination of dimensions of test pieces (First revision) (ISO 9424:2003, MOD) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6InhNZ1dydmszVU5uVkdTb2d5Wi9MVGc9PSIsInZhbHVlIjoiUTR1MFFXVHhKei9CM09LdVlaQ2I4UT09IiwibWFjIjoiODQ1OTMyMzBmZWQ1NmEzODk2ZmU1MjY5ZTY5YWJhNzQzNjkzMWE1ZTIwMjkwNTk4MDUzYjIxZmUzMjdlMDEwNCJ9]. This standard specifies a method for measuring the thickness, length and width of test pieces of wood-based panels.
+MS 1787: PART 4:2005[https://mysol.jsm.gov.my/preview-file/eyJpdiI6IjR1dFZIV0FXSTFqeERyU0ZWSVJHckE9PSIsInZhbHVlIjoiU2JWa0poUzRSb0U0N3owK2NBSE15QT09IiwibWFjIjoiMzRkMDZhMTFiOTM2NzdlM2IxMDkxM2FlZjgxOGQxMzZhOTA2YzUzMDFhYzBkNjFlNDRhMmU3ZjYxMTAzMGViOCJ9]. This Malaysian Standard specifies a method for measuring the thickness, length and width of test pieces of wood-based panels.
+MS 1787: PART 5:2005 wood-based panels – PART 5: Determination of Density (ISO 9427:2003, MOD) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6Ilg5SWdvRUt6c0RjZ1ZucVhONEFScVE9PSIsInZhbHVlIjoiSEF5YTB5QXdYOVRnM3NPdHhOcm00dz09IiwibWFjIjoiYWVmMGVjZjNjYTMxYTk2Y2YwNDkyYjQ2MWYyZDlhYjJhZTY4OWE1ZjE0MzA2NTk5OGQ2N2YzZDkzZThiMjQ3MCJ9]. This Malaysian Standard specifies a method for determining the density of wood-based panels.
+MS 1787: PART 6:2005 wood-based panels – Part 6: Determination of Swelling in Thickness After Immersion in Water (ISO 16983:2003, MOD) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6InNrWHFlaDJNR25oVllYTWI2RVlHOVE9PSIsInZhbHVlIjoiaE95eGgzVmY5aFFMVHgveFFMTlJOUT09IiwibWFjIjoiNDdlZjVkMzNhOTA4MzE2YjAwNjcwYTA3NGE4NTAwNTNmNTU4MmNkMDgwMWE5MTE2MTdlYjExNjY3MzdiNDQzNCJ9] . This Malaysian Standard specifies a method of determining the swelling in thickness of wood-based panels, after immersion in water.
+MS 1787: PART 7:2005 wood-based panels - Part 7: Determination of Dimensional Changes Associated with Changes in Relative Humidity (ISO 16985:2003, MOD) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IjVldzNUd3g2QlYraFUrbVJEQjJDSFE9PSIsInZhbHVlIjoidlhhYmdwSUh4bmNMVkpxcUhLaUNlUT09IiwibWFjIjoiZDI0OTVhYTUxNGQ3NmYwNWY2NDYxMmEwZjJjZWI5ZWJiY2Y5NWY5Y2E0MzA4NWExMTQ3N2E3NDA0ZmMyYTYzMiJ9]. This Malaysian Standard specifies a method for the determination of dimensional changes in wood-based panels, due to variations in relative humidity.
+MS 1787: PART 8:2005 wood-based panels – Part 8: Determination of Moisture Resistance Under Cyclic Test Conditions (ISO 16987:2003, MOD) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IkRYRFE2Szl3VzYwUlZuMUNSb21JNUE9PSIsInZhbHVlIjoidlFId2FVTFNhOGo3OGhqUGVsWTQ5dz09IiwibWFjIjoiNTBjYzRjMjhiMzQ2MGE0ZTNlMjQxOTY3MGVmNzFjZTdhMTVhNWQzNDNhNzgzMTI5YTBiMjcyN2VkNmUzNzQxNyJ9]. This Malaysian Standard specifies a method for determining the moisture resistance of wood-based panels under cyclic test conditions.
+MS 1787-9:2022 wood-based panels – Part 9: Determination of surface soundness (First revision) (ISO 16981:2003, MOD) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IkJkV2VGN0NsY1gvRmV2d2M5K09PNVE9PSIsInZhbHVlIjoiOFc1YlBKSmFIanNZNXFqZ2JHalZtUT09IiwibWFjIjoiMGJkYmYwOThlYmNiNTc1ZmM0ZTdjYjYwMWUyNjFkNGViMTJhNzk0ODI0NGM0MTFkNDVlNDg4NGZiNDE4YzQ5MSJ9] . This standar specifies a method for assessing the surface soundness of wood- based panels. This standard excludes the testing of the grid-patterned face of hardboards.
+MS 1787: PART 10:2005  [https://mysol.jsm.gov.my/preview-file/eyJpdiI6Ii9selduaU9US2d5ZEVrS3Iycm1mb1E9PSIsInZhbHVlIjoiVFVNQ2Q1aG5Pdk1XN0duWE1DUEp3Zz09IiwibWFjIjoiYjM0NjQzNGI3ZTcwMWU2NDE0ZGYxYzcwZGQ1NDc2MWE2MmMzMzI3ODhlNjQwMzVkMDhkMDNjMDUzOTJhYWFmMCJ9][https://mysol.jsm.gov.my/preview-file/eyJpdiI6Ii9selduaU9US2d5ZEVrS3Iycm1mb1E9PSIsInZhbHVlIjoiVFVNQ2Q1aG5Pdk1XN0duWE1DUEp3Zz09IiwibWFjIjoiYjM0NjQzNGI3ZTcwMWU2NDE0ZGYxYzcwZGQ1NDc2MWE2MmMzMzI3ODhlNjQwMzVkMDhkMDNjMDUzOTJhYWFmMCJ9]. This Malaysian Standard specifies a method for determining the apparent modulus of elasticity and bending strength (modulus of rupture) of wood-based panels.
+MS 1787: Part 11:2005 wood-based panels – Part 11: Determination of Tensile Strength Perpendicular to the Plane of the Panel (ISO 16984:2003, MOD) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IlRYc2l6L1lCY25ZTTZlNzZqalcya2c9PSIsInZhbHVlIjoiSUg4WjZaWmtnMThGZ2VENnB3OUlHQT09IiwibWFjIjoiMTUwYjc5Y2ZhYmM3ZWY0ZGZmMDIyMzU0Y2MyMzU1NzhhNGIxMDc3YzVjZWYyOGRjNTJiZjg1ZTZkNDcyNGVkZCJ9]. This Malaysian Standard specifies a method for determining the resistance to tension perpendicular to the plane of the panel, also known as internal bond. 
+MS 1787: Part 12:2005  [https://mysol.jsm.gov.my/preview-file/eyJpdiI6InRrWHUrMS9VVE50L2lYcGEvR2M5UFE9PSIsInZhbHVlIjoiMWpHRHBDVmIxWDVEQkl0MHNjVEs1Zz09IiwibWFjIjoiMDdlZDJhNTUxYTViYTAyYzcyYTQ4MWZmZjYxMjA3YTJmNmNmMzNjYzZiZTU0NzM0ZmI0NzIzNzFjZWFlZjE4MiJ9]wood-based panels – Part 12: Determination of Wet Bending Strengt [https://mysol.jsm.gov.my/preview-file/eyJpdiI6InRrWHUrMS9VVE50L2lYcGEvR2M5UFE9PSIsInZhbHVlIjoiMWpHRHBDVmIxWDVEQkl0MHNjVEs1Zz09IiwibWFjIjoiMDdlZDJhNTUxYTViYTAyYzcyYTQ4MWZmZjYxMjA3YTJmNmNmMzNjYzZiZTU0NzM0ZmI0NzIzNzFjZWFlZjE4MiJ9]h [https://mysol.jsm.gov.my/preview-file/eyJpdiI6InRrWHUrMS9VVE50L2lYcGEvR2M5UFE9PSIsInZhbHVlIjoiMWpHRHBDVmIxWDVEQkl0MHNjVEs1Zz09IiwibWFjIjoiMDdlZDJhNTUxYTViYTAyYzcyYTQ4MWZmZjYxMjA3YTJmNmNmMzNjYzZiZTU0NzM0ZmI0NzIzNzFjZWFlZjE4MiJ9]. This Malaysian Standard specifies methods for determining the bending strength of wood-based panels after immersion in hot water.
+MS 1787-13:2022 wood-based panels – Part 13: Determination of screw holding ability (First revision) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IkplZ2N6bDYvYlBhZitrVk40ZU9DVUE9PSIsInZhbHVlIjoib2tYRUlvVE9TMkFxQ1l3SC9IVlBqdz09IiwibWFjIjoiYjY0NDA5NmNiMjE1Yzk3YjdmZGU3OTJkNDY0MDA4MTI5OWQzYjJlNDFmN2M4ZWIyZmE4NzdkYWRlNmIxODk2OSJ9]. This standard specifies a method for the determination of the resistance of fibreboard and particleboard to axial withdrawal of screws.
+MS 1787-14:2022 wood-based panels – Part 14: Determination of formaldehyde content by perforator method (First revision) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6Im40K0x6M2hVM0tKT1l1T0pjQjU4K3c9PSIsInZhbHVlIjoiamZQUjRRc3ozSzgrMFdvdnlsUUxDUT09IiwibWFjIjoiYjEyODllNzYzMmI1OTljMzU3M2NiZGQ1NTU0MmJiMGU4MmVlMDYzNWIwMzkyY2VhMmYxYjQwNTQzZGEzNzVjZSJ9]. This standard specifies a method for determining the extractable formaldehyde of non-laminated and uncoated wood-based panels.
+MS 1787-15:2022 wood-based panels – Part 15: Determination of formaldehyde emission by desiccator method (First revision) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IjQwU0tGK3dIb0JHRXpHdXpOSHlQSWc9PSIsInZhbHVlIjoiV0NVbnB0R2s3akVZSFNlcU5NUFVzdz09IiwibWFjIjoiYTAyZjQ0Y2EzOTc0NTVmN2M4NGU3ZGFhYTljYjhlMjMzMjU4NWQwMTI5ZDljNjczOTk1N2ViNmNlMTJkODI1ZiJ9]. This standar specifies a method for determining the quantity of free formaldehyde emitted from wood-based panels.
+MS 2750:2021 wood-based panels - Formaldehyde emission limits [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IkJWajJUK3FGdGJXRmVZVXdTbm53OGc9PSIsInZhbHVlIjoiN2xVdkp2TmtFemJCSkdOVUtrVWxpZz09IiwibWFjIjoiZTkwODExZmZlNTNlOTVmNjljOTVhNTMwNzczZTRjNmYzZmQyMmNjNGRjNzI5NTc1Yzk5NTk3MjUzYzIxMzc5NSJ9]. This Malaysian Standard specifies the formaldehyde emission limits from wood-based panels including fibreboard, particleboard, plywood and other related product.
+MS 1912:2006 (Confirmed: 2020) wood-based panels - Fibreboards - Specification [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IkprWmRyRlhwK0dtU2RMOGtiMXBjcGc9PSIsInZhbHVlIjoiQnd4UjJZcUlKR2tVeW16dXdLU2dCUT09IiwibWFjIjoiMzE1ZGEyOGZkMjcyZWRiYWRmZjMzNDUwM2Y5MzI0ZTg0ZjA4OGZiYzg2NTlhZTVlM2RmMWQ3ODVkN2JmZjMxYiJ9]. This Malaysian Standard provides a classification matrix and property requirements for three types of fibreboards. This standard covers the specification for the manufacture of fibreboard.
+MS 1786:2005[https://mysol.jsm.gov.my/preview-file/eyJpdiI6InMvTkMzSko2Y3d0bGFBNG9OQ2NoTFE9PSIsInZhbHVlIjoiYUFNeXR6N2ZWTVJnMUVIOG9EaWpRUT09IiwibWFjIjoiMDg2YmFjZDkxMmQwMzhmYTZiYjk2NzZmMWU3ZTYxMjIwODYxNTI3MzIwMWYxMmRjNWZjYThmNjUyMTAwYmFkNSJ9]) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6InMvTkMzSko2Y3d0bGFBNG9OQ2NoTFE9PSIsInZhbHVlIjoiYUFNeXR6N2ZWTVJnMUVIOG9EaWpRUT09IiwibWFjIjoiMDg2YmFjZDkxMmQwMzhmYTZiYjk2NzZmMWU3ZTYxMjIwODYxNTI3MzIwMWYxMmRjNWZjYThmNjUyMTAwYmFkNSJ9]. This Malaysian Standard provides definitions and terminology applying to all types of fibreboard, particleboard and oriented strand board (OSB).
+ 
+Standar Kayu Lapis dan Pengawetnya.
+MS 2371-2:2010 (CONFIRMED: 2020) wood Preservatives, Treated Wood and Treated Plywood - Quantitative Analysis for Boron - Part 2: Inductive Coupled Plasma - Atomic Emmission Spectroscopy (ICP-AES) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6Im0zZDV2eGhMcHUzTlpPTklFRXVjL0E9PSIsInZhbHVlIjoiMytOWTUvR0VPSzFzazdyZ1IrclNtUT09IiwibWFjIjoiZTA3OWFiZmFmMTMxNzQ2YjFhMTFlMWNjN2MxY2UzNjhmODZkM2EwNWYzYzA0N2RlNjg5OWZiNzVhNzc5YzU5YSJ9]. This Malaysian Standard details procedures for the determination of boron in wood preservatives, treating solutions, treated timber and treated plywood.
+MS 2371-3:2010 (Confirmed: 2020) Wood Preservatives, Treated Wood And Treated Plywood - Quantitative Analysis For Boron - Part 3: Uv-Visible Spectrophotometer Method [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IllIMEdlQnpBWHpyd200aTNTQUpVMGc9PSIsInZhbHVlIjoiejVaOE5GN1Rac2JVSGlrSUFUMDl6dz09IiwibWFjIjoiOGUxMGZkOTQ5MGVjOTQ2YTUxZDBjZjI1NDNlYzFjNWM3YWRjY2QwOGU2OTEyNzA5MTI3NWQ4OTRiZjMzODVmYiJ9]. This Malaysian Standard details procedures for the determination of boron in wood preservatives, treating solutions, treated timber and treated plywood.
+MS 2371-1:2010 (Confirmed: 2020) Wood Preservatives, Treated Wood and Treated Plywood - Quantitative Analysis for Boron - Part 1: Titration Method [https://mysol.jsm.gov.my/preview-file/eyJpdiI6ImpzalNhTGw5cUNlUHY0SWhCM1hKMVE9PSIsInZhbHVlIjoiL05pYWZuRWphQ1VreXZvN1NVNCtjUT09IiwibWFjIjoiMzZhMzY1YTZhMmM3OWI0ZDI1YmE0MzA2N2YwNWU5YjJhMzhjNWRkNjkzN2UwYzE3ODQzODQ1YWE1NWEyYzg1YyJ9]. This Malaysian Standard details procedures for the determination of boron in wood preservatives and treating solutions, this standard covers the analytical method of boron preservatives using titrimetri.
+MS 544 : PART 4 : Secton 2: 2001 Code of Practice for Structural Use of Timber : Part 4 : Timber Panel Products : Section 2 : Marine Plywood [https://mysol.jsm.gov.my/preview-file/eyJpdiI6InVGY3hacVN1Wk16VElQdjM2TmJXMkE9PSIsInZhbHVlIjoielRDSGRYaVFKMDF5QUNJSDgwbW5FZz09IiwibWFjIjoiYWZjMjA4ZWZmMDc4Nzc3N2E1YzY5NDkwOGVhN2VjMTBlMjBhMDg2OWNkMGY5NjA4ZWIyMzNmOTI4MTRlYzJmYiJ9]. This section gives recommendations for the use of sanded and unsanded Marine plywood, in balanced construction.
+MS 544 PART 4 : Section 1 : 2001 Code of Practice for Structural Use of Timber: Part 4 : Timber Panel Products: Section 1 : Structural Plywood [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IkcxMW1CTllML3pJdzN2TjM5ZXd6OFE9PSIsInZhbHVlIjoid2VVZXBwRTh1cHpOa1h0aFB4SXF0QT09IiwibWFjIjoiNTJiYjVmMTE1NjVjMGRjMmNhODRlNjhiNzEwOTk3N2NlOGIyMDVkZDkxOWQ1M2UwMTVmYzQ4NWMyZmMxYTc5ZCJ9]. This section gives recommendations for the use of sanded and unsanded structural plywoods, in balanced construction.
+MS 228:2015 plywood - Specification (Second revision) [https://mysol.jsm.gov.my/preview-file/eyJpdiI6ImFVUU1nUlZmMFZTQWY4dGljU1c3Mmc9PSIsInZhbHVlIjoib05KWUFmVWttNnhnTVJqbnBoWlgyUT09IiwibWFjIjoiNWY3ZWU0Y2RhYTJjZjc1ZTM4MjEwMTk4NjNlNDJiOGFmNmY4MzhjYjIzNzkwMjU4OWNkZDAzMGEwYzYwNDllYyJ9]. This Malaysian Standard specified requirements for plywood for general and structural use, in dry, tropical dry/humid and high humidity.
+MS 2629:2018 Palm plywood - Specification [https://mysol.jsm.gov.my/preview-file/eyJpdiI6IlJtRWt6M1ZKaE0wZ0dJNjRHcDBha3c9PSIsInZhbHVlIjoiK2lhMGdtRVdOMys4UXg3NGVsV1NMQT09IiwibWFjIjoiZTQwNzdlMTQxNjllZTVkNTUyY2Y1NzZjMGMyZTFjYWQ4NGNhZTI4YmViNzYwNDMzZWMzMzRhZTk1NjA0MGQ5MyJ9]. This Malaysian Standard specifies requirements for plywood for general, furniture and structural use, in dry, tropical-dry/humid and high-humidity.
+ 
+Lihat standar lainnya disini [https://mysol.jsm.gov.my/search-catalogue?is-advance=0&keyword=wood&standard-code=&status=&sector=].
+5. Lembaga Berwenang
+inistry of Natural Resources, Environment and Climate Change [https://www.nrecc.gov.my/en-my/Pages/default.aspx].
+Bertanggung jawab atas atas energi, sumber daya alam, lingkungan, perubahan iklim, tanah, tambang, mineral, geosains, keanekaragaman hayati, margasatwa, taman nasional, kehutanan, survei, pemetaan, dan data geospasial. Dalam Kementerian ini Produk hasil hutan berada pada Forestry Departement of Peninsular Malaysia (JPSM) [https://www.forestry.gov.my/index.php/my]
+Malaysian Timber Industry Board (MTIB).
+Malaysian Timber Industry Board (MTIB) [https://www.mtib.gov.my/] adalah badan hukum di bawah[https://www.kpk.gov.my/kpk/en/] yang bertanggung jawab untuk memimpin dan mengembangkan industri perkayuan negara. MTIB dipercaya untuk berkoordinasi dalam merumuskan kebijakan dan strategi untuk mengembangkan industri perkayuan tanah air agar berdaya saing di pasar lokal dan internasional.
+6. Informasi Lainnya.
+Malaysia Regulatory Overview [https://www1.hkexnews.hk/listedco/listconews/sehk/2007/0223/03938/ewp116.pdf]
+MAYTimber-Legality-Guidance-TemplateAug-2018docx.pdf (apec.org) [https://www.apec.org/docs/default-source/Groups/EGILAT/2018/MAYTimber-Legality-Guidance-TemplateAug-2018docx.pdf]
+Malaysia-country-specific-guideline-sarawak-2020.pdf (agriculture.gov.au) [https://www.agriculture.gov.au/sites/default/files/documents/malaysia-country-specific-guideline-sarawak-2020.pdf]
+Forest-Policy-Assessment-Malaysia.pdf (chathamhouse.org) [https://forestgovernance.chathamhouse.org/media/data-download/Forest-Policy-Assessment-Malaysia.pdf]
+

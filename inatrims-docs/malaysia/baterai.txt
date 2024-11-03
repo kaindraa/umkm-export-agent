@@ -1,0 +1,35 @@
+Regulasi Teknis dan Persyaratan Mutu Malaysia - Baterai
+
+Sertifikat Kesesuaian.
+Baterai utama yang akan dijual di Malaysia harus memiliki Certificate of Conformance (COC) mulai tanggal 1 September 2014. Persyaratan wajib ini berlaku untuk semua baterai utama yang telah diumumkan sebelum 1 September 2014 atau baterai utama baru mulai 1 September 2014.
+Pemilik produk yang ingin menjual baterai utama mereka di Malaysia diharuskan membuat pernyataan kepada Kementerian Perdagangan Dalam Negeri, Koperasi dan Konsumerisme Malaysia (MDTCC) yang menyatakan bahwa produk mereka aman, teruji dan sesuai dengan standar keselamatan yang ditentukan untuk baterai utama. , serta sesuai dengan persyaratan lain sebagaimana ditentukan dalam undang-undang nasional yang relevan.
+Pernyataan tersebut harus dibuat dalam bentuk Certificate of Conformance berdasarkan format yang ditentukan oleh MDTCC dan laporan uji harus dikeluarkan dari laboratorium terakreditasi yang harus diproduksi berdasarkan permintaan dari pihak yang berwenang.
+Deklarasi harus dibuat untuk setiap konsinyasi atau pengiriman oleh importir, setiap produksi oleh produsen lokal, dan setiap persediaan repackaged oleh pemasok.
+Baterai utama yang dijual di Malaysia harus ditandai atau ditempelkan dengan tanda kesesuaian (MC Mark), bersama dengan nama dan alamat pemilik produk atau perwakilan pemilik yang berwenang. Nomor registrasi yang ditentukan oleh MDTCC harus ditandai atau ditempelkan pada baterai utama itu sendiri atau kemasannya.
+Persyaratan wajib baru berlaku untuk baterai utama yang melengkapi barang dan baterai primer yang dirancang atau ditujukan untuk keperluan konsumen dan rumah tangga, termasuk namun tidak terbatas pada kategori ukuran AA, AAA, AAAA, C, D dan 9V.
+Relevant legislations:
+Consumer Protection Act 1999 [Act 599];
+Consumer Protection (Safety Standards for Primary Batteries) Regulations 2013;
+Consumer Protection (Certificate of Conformance and Conformity Mark of Safety Standards) Regulations 2010; 
+Consumer Protection (Certificate of Conformance and Conformity Mark of Safety Standards) (Amendment) Regulations 2013; and
+Customs (Prohibition of Import) Order.
+Persyaratan Umum
+Pemilik produk bertanggung jawab untuk membuat pernyataan kepada MDTCC yang menyatakan bahwa:
+baterai utama yang disediakan di Malaysia aman;
+baterai utama diuji dan sesuai dengan standar keselamatan yang ditentukan untuk baterai primer
+menguji laporan dari laboratorium terakreditasi untuk baterai primer tertentu akan diproses sesuai permintaan oleh otoritas penegak hukum; dan
+baterai utama telah memenuhi persyaratan lainnya
+Siapa yang Harus Menyatakan? (Who Should Declare?)
+Produsen lokal; atau
+Importir (termasuk importir barang lain yang terpasang dengan baterai utama); atau
+Pemasok (termasuk pengecer yang melakukan aktivitas pengemasan ulang baterai primer); yang memasok baterai primer di Malaysia.
+ 
+Standar Baterai Utama (Primary Battery Standard)
+MS IEC 60086-1:2017 adalah standar baterai utama, standar ini dimaksudkan untuk standarisasi baterai utama berkenaan dengan dimensi, nomenklatur, konfigurasi terminal, tanda, metode uji, kinerja khas, aspek keselamatan dan lingkungan.
+Sebagai alat klasifikasi baterai utama, sistem elektrokimia juga distandarisasi berkenaan dengan sinyal sistem, elektroda, elektrolit, tegangan buka nominal dan maksimum.
+Standar Keselamatan Untuk Baterai Utama
+MS IEC 60086-1 or IEC 60086-1 Primary Batteries-Part 1: General
+MS IEC 60086-2 or IEC 60086-2 Primary Batteries-Part 2: Physical and Electrical Specifications
+MS IEC 60086-4 or IEC 60086-4 Primary Batteries-Part 4: Safety of Lithium Batteries
+MS IEC 60086-5 or IEC 60086-5 Primary Batteries-Part 5: Safety of Batteries with Aqueous Electrolyte
+

@@ -78,7 +78,7 @@ class ExportChatAgent:
         )
 
         # Initialize chains
-        llm = ChatOpenAI(model_name='gpt-4', temperature=0)
+        llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
         self.writer_chain = self.prompt | llm | StrOutputParser()
         self.grader_chain = self.hallucination_prompt | llm | StrOutputParser()
 
@@ -220,9 +220,7 @@ class ExportChatAgent:
             
         return answer
 
-# Example usage:
-os.environ['OPENAI_API_KEY'] = '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'
-os.environ['TAVILY_API_KEY'] = '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'
+
 
 agent = ExportChatAgent(
     pdf_path="C:\\Users\\ASUS\\Downloads\\hackathon-ai\\gov-ai\\export-umkm-agent\\important-docs\\modul-umkm-ekspor.pdf",

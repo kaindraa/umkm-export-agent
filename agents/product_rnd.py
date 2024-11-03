@@ -140,7 +140,7 @@ def create_writer_chain():
         input_variables=["product_description", "outline", "context"],
         template=template
     )
-    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def create_workflow(planner_chain, tavily_planner_chain, tavily_retriever_chain, grader_chain, writer_chain, max_iteration: int):

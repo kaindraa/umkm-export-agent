@@ -128,7 +128,7 @@ def create_writer_chain():
     <END_PROMPT>
     """
     prompt = PromptTemplate(input_variables=["product_description", "outline", "context"], template=prompt_template)
-    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def create_workflow(tavily_client, num_query: int = 4, num_tavily: int = 5, max_iteration: int = 3):

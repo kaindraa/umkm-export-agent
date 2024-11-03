@@ -54,7 +54,7 @@ def create_path_planner():
         template=prompt_template
     )
     
-    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def create_content_writer():

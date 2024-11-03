@@ -1,0 +1,9 @@
+wget -c https://os.vlsm.org/Log/kaindraa.tar.xz.txt
+gpg --output kaindraa.tar.xz --decrypt kaindraa.tar.xz.txt
+ls -la
+tar -xf kaindraa.tar.xz
+cd kaindraa/DW06
+for file in *; do
+    echo "==== $file ===="
+    cat "$file"
+done

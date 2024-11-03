@@ -1,14 +1,14 @@
 from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
-import ast
+import ast, re
 from IPython.display import Markdown, display
 
 def create_path_planner():
     """Creates and returns the path planning chain"""
     prompt_template = """
     Anda adalah agen yang bertugas menentukan path file yang sesuai berdasarkan Query. Struktur folder saya adalah:
-    r"C:\\Users\\ASUS\\Downloads\\hackathon-ai\\gov-ai\\inatrims-docs\\\\.txt"
+    r"C:\\Users\\ASUS\\Downloads\\hackathon-ai\\gov-ai\\inatrims-docs\\<nama negara>\\<nama produk>.txt"
 
     Negara yang tersedia hanyalah Malaysia dan Produk yang tersedia adalah:
     alas-kaki
@@ -38,7 +38,12 @@ def create_path_planner():
     - Jika query mencakup produk secara implisit atau sinonim, identifikasi dan berikan path yang relevan.
     - Jika tidak ada negara atau produk tersebut di itu maka hanya keluarkan list kosong.
     - Pastikan bahwa jawaban Anda mempertimbangkan hubungan implisit yang mungkin ada antara query dan context.
-    - Anda harus menuliskan query dalam 1 baris saja berupa format yang sudah ditentukan
+    - Anda harus menuliskan query dalam 1 baris saja berupa format yang sudah ditentukan tanpa
+    - Contoh yang salah ```plaintext
+[]
+```
+    - Contoh yang benar ["C:\\Users\\ASUS\\Downloads\\hackathon-ai\\gov-ai\\inatrims-docs\\malaysia\\produk-tekstil.txt"]
+    - Anda tidak perlu memberi formatting apapun, pastikan anda tulis 1 baris saja, ini sangat penting untuk karir saya
 
     Query: {query}
     Jawaban: 
@@ -49,7 +54,7 @@ def create_path_planner():
         template=prompt_template
     )
     
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def create_content_writer():
@@ -73,7 +78,7 @@ def create_content_writer():
         template=prompt_template
     )
     
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def retrieve_content(paths):
@@ -109,13 +114,17 @@ class InatrimsProcessor:
         """
         try:
             # Get relevant file paths
+            # print(query)
             paths_str = self.path_planner.invoke({"query": query})
+            # print(paths_str)
+            paths_str = paths_str.replace('\\', '\\\\')
             paths = ast.literal_eval(paths_str)
-            
+            # print('alif ganteng')
             # Retrieve content from files
             context = retrieve_content(paths)
             
             # Generate response
+            # print(context)
             result = self.content_writer.invoke({
                 "query": query,
                 "paths": paths,
@@ -138,8 +147,9 @@ def inatrims(query):
     """
     processor = InatrimsProcessor()
     result = processor.process_query(query)
-    display(Markdown(result))
+    # display(Markdown(result))
+    print(result)
 
 
 
-inatrims('bagaimaan regulasi ekspor produk ikan ke malaysia')
+inatrims('jelaskan regulasi ekspor produk ikan ke malaysia')

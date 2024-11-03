@@ -60,17 +60,17 @@ def create_path_planner():
 def create_content_writer():
     """Creates and returns the content writing chain"""
     prompt_template = """
-    Path File yang Dibuka: {paths}
     Context: {context}
 
     Deskripsi: Context ini berisi informasi tentang regulasi dan standar teknis ekspor.
-    Anda adalah seorang Agent yang bertugas menjawab pertanyaan pengguna tentang Regulasi dan Standar Mutu ekspor ke luar negeri.
-    Berdasarkan query berikut: "{query}", evaluasi apakah jawaban ada dalam context.
-    Jika jawaban ada dalam context, tulis jawaban tersebut.
-    Jika jawaban ada dalam referensi link di context, sebutkan bahwa jawabannya ada di link tersebut.
-    Jika jawaban tidak ditemukan dalam context, tulis Jawaban tidak ditemukan dalam context.
-    Jika paths dan context kosong maka bilang informasi untuk itu tidak tersedia dan sarankan cari di sumber lain.
-    Tulis Jawaban dalam format Markdown
+    Anda adalah seorang agen yang bertugas menjawab pertanyaan pengguna tentang Regulasi dan Standar Mutu ekspor ke luar negeri.
+    Berdasarkan query berikut: "{query}", gunakan informasi dari context untuk menjawab pertanyaan.
+
+    Jika jawaban terdapat dalam context, tulis jawaban tersebut.
+    Jika jawaban mengacu pada sumber eksternal dalam context, sebutkan bahwa jawabannya dapat ditemukan di link tersebut.
+    Jika jawaban tidak ditemukan dalam context, tulis "Jawaban tidak ditemukan dalam context. Untuk informasi lebih lanjut, silakan kunjungi sumber resmi seperti Kementerian Perindustrian Malaysia atau Badan Kelapa Sawit Malaysia (Malaysian Palm Oil Board/MPOB)."
+
+    Tulis jawaban dalam format Markdown.
     """
     
     prompt = PromptTemplate(

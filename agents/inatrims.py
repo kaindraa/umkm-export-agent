@@ -64,11 +64,11 @@ def create_content_writer():
     Context: {context}
 
     Deskripsi: Context ini berisi informasi tentang regulasi dan standar teknis ekspor.
-
+    Anda adalah seorang Agent yang bertugas menjawab pertanyaan pengguna tentang Regulasi dan Standar Mutu ekspor ke luar negeri.
     Berdasarkan query berikut: "{query}", evaluasi apakah jawaban ada dalam context.
     Jika jawaban ada dalam context, tulis jawaban tersebut.
     Jika jawaban ada dalam referensi link di context, sebutkan bahwa jawabannya ada di link tersebut.
-    Jika jawaban tidak ditemukan dalam context, tulis "Jawaban tidak ditemukan dalam context.
+    Jika jawaban tidak ditemukan dalam context, tulis Jawaban tidak ditemukan dalam context.
     Jika paths dan context kosong maka bilang informasi untuk itu tidak tersedia dan sarankan cari di sumber lain.
     Tulis Jawaban dalam format Markdown
     """
@@ -114,9 +114,9 @@ class InatrimsProcessor:
         """
         try:
             # Get relevant file paths
-            # print(query)
+            print(query)
             paths_str = self.path_planner.invoke({"query": query})
-            # print(paths_str)
+            print(paths_str)
             paths_str = paths_str.replace('\\', '\\\\')
             paths = ast.literal_eval(paths_str)
             # print('alif ganteng')
@@ -124,7 +124,7 @@ class InatrimsProcessor:
             context = retrieve_content(paths)
             
             # Generate response
-            # print(context)
+            print(context)
             result = self.content_writer.invoke({
                 "query": query,
                 "paths": paths,
@@ -152,4 +152,5 @@ def inatrims(query):
 
 
 
-inatrims('jelaskan regulasi ekspor produk ikan ke malaysia')
+query = input('Masukkan pertanyaan Anda: ')
+inatrims(query)

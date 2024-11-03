@@ -68,7 +68,7 @@ def create_content_writer():
 
     Jika jawaban terdapat dalam context, tulis jawaban tersebut.
     Jika jawaban mengacu pada sumber eksternal dalam context, sebutkan bahwa jawabannya dapat ditemukan di link tersebut.
-    Jika jawaban tidak ditemukan dalam context, tulis "Jawaban tidak ditemukan dalam context. Untuk informasi lebih lanjut, silakan kunjungi sumber resmi seperti Kementerian Perindustrian Malaysia atau Badan Kelapa Sawit Malaysia (Malaysian Palm Oil Board/MPOB)."
+    Jika jawaban tidak ditemukan dalam context, tulis "Jawaban tidak ditemukan dalam context. Untuk informasi lebih lanjut, silahkan cari di lalu sebutkan"
 
     Tulis jawaban dalam format Markdown.
     """
@@ -78,7 +78,7 @@ def create_content_writer():
         template=prompt_template
     )
     
-    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def retrieve_content(paths):

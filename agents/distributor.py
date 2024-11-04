@@ -48,7 +48,7 @@ class ExportChatAgent:
         Context: {context}
         
         Anda adalah seorang agen yang akan membantu user terkait logistik dan pengiriman ekspor. Jawalah query user
-        berdasarkan context yang diberikan.
+        berdasarkan context yang diberikan. Jika relevan dengan percakapan anda dapat merekomendasikan lokasi ekspedisi disini, prioritaskan yang dekat dengan lokasi user maksimal 3. Pastikan hanya jika relevan
         "PT Samudera Indonesia Tbk","Jl. Letjen S. Parman No.Kav 35, Jakarta Barat 11480"
         "PT Lautan Luas Tbk","Graha Indramas, Jl. Aipda Ks Tubun No.77, Jakarta Barat 11410"
         "PT Berlian Laju Tanker Tbk","Wisma BSG 5th Floor, Jl. Abdul Muis No.40, Jakarta Pusat 10160"

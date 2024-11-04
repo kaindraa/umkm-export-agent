@@ -1,6 +1,7 @@
 import pickle
 import os
 import pandas as pd
+from sklearn.preprocessing import OrdinalEncoder
 
 # Directory where models are saved
 save_dir = "models_directory"
@@ -18,14 +19,25 @@ for filename in os.listdir(save_dir):
         with open(file_path, "rb") as file:
             models[target] = pickle.load(file)
 
+df = pd.read_csv('data_ekspor.csv')
+df['hs_code'] = df['hs_code'].astype(str)
+
+ordinal_encoder = OrdinalEncoder()
+categorical_features = ['hs_code', 'kategori_barang', 'deskripsi_produk', 
+                        'tujuan_negara', 'kota_asal', 'provinsi_asal']
+fitur = ['hs_code', 'kategori_barang', 'deskripsi_produk', 'tujuan_negara', 
+         'kota_asal', 'provinsi_asal', 'kuantitas', 'volume_m3', 'berat_kg', 'hpp']
+X = df[fitur]
+X[categorical_features] = ordinal_encoder.fit(X[categorical_features])
+
 
 # Fungsi untuk meminta input dari pengguna
 def get_user_input():
     user_input = {
-        'hs_code': '8414.51',
-        'kategori_barang': 'Kipas angin',
-        'deskripsi_produk': 'Kipas angin dengan daya listrik',
-        'tujuan_negara': 'Jepang',
+        'hs_code': '9603.21',
+        'kategori_barang': 'Sikat gigi',
+        'deskripsi_produk': 'Sikat gigi manual',
+        'tujuan_negara': 'Filipina',
         'kota_asal': 'Jakarta',
         'provinsi_asal': 'DKI Jakarta',
         'kuantitas': 777,
@@ -40,6 +52,8 @@ user_data = get_user_input()
 
 # Konversi input pengguna ke DataFrame
 user_df = pd.DataFrame([user_data])
+
+user_df[categorical_features] = ordinal_encoder.transform(user_df[categorical_features])
 
 # Melakukan prediksi untuk setiap target
 prediksi = {}

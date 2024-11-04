@@ -14,6 +14,7 @@ from tavily import TavilyClient
 import os
 from collections import deque
 
+os.environ['TAVILY_API_KEY'] = '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'
 class ExportChatAgent:
     def __init__(self, pdf_path: str, tavily_api_key: str):
         self.chat_history = deque(maxlen=3)  # Keep only last 3 Q&A pairs
@@ -48,7 +49,8 @@ class ExportChatAgent:
         Context: {context}
         
         Anda adalah seorang agen yang akan membantu user terkait logistik dan pengiriman ekspor. Jawalah query user
-        berdasarkan context yang diberikan. Jika relevan dengan percakapan anda dapat merekomendasikan lokasi ekspedisi disini, prioritaskan yang dekat dengan lokasi user maksimal 3. Pastikan hanya jika relevan
+        berdasarkan context yang diberikan. Jika relevan dengan percakapan anda dapat merekomendasikan lokasi ekspedisi disini, prioritaskan yang dekat dengan lokasi user maksimal 3. Pastikan hanya jika relevan. Hanya sebut jika user ada memberi informasi terkait lokasi dia
+        Jika user hanya bertanya terkait saran lokasi maka abaikan context
         "PT Samudera Indonesia Tbk","Jl. Letjen S. Parman No.Kav 35, Jakarta Barat 11480"
         "PT Lautan Luas Tbk","Graha Indramas, Jl. Aipda Ks Tubun No.77, Jakarta Barat 11410"
         "PT Berlian Laju Tanker Tbk","Wisma BSG 5th Floor, Jl. Abdul Muis No.40, Jakarta Pusat 10160"
@@ -176,7 +178,7 @@ class ExportChatAgent:
         )
 
         # Initialize chains
-        llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+        llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
         self.writer_chain = self.prompt | llm | StrOutputParser()
         self.grader_chain = self.hallucination_prompt | llm | StrOutputParser()
 
@@ -326,7 +328,7 @@ agent = ExportChatAgent(
 )
 
 # Chat with the agent
-response1 = agent.chat("jelaskan npwp")
+response1 = agent.chat("Jelaskan tentang pengiriman ekspor melalui pos indonesia")
 print(response1)
 
 # response2 = agent.chat("tadi saya bertanya apa")

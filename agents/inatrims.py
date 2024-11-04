@@ -33,7 +33,8 @@ def create_path_planner():
     produk-tekstil
 
     Instruksi:
-    - Jika Query mencakup suatu negara tetapi tidak menyebutkan produk tertentu, berikan semua path file untuk negara tersebut.
+    - Jika Query mencakup suatu negara tetapi tidak menyebutkan produk tertentu, berikan di path rangkuman.txt .
+    = Jika negara bukan malaysia atau tidak menyebutkan negara, maka bilang untuk keperluan demo yang baru tersedia hanya malaysia lalu ambil di malaysia
     - Jika Query mencakup negara dan produk, berikan hanya path yang sesuai dengan negara dan produk yang diminta.
     - Jika query mencakup produk secara implisit atau sinonim, identifikasi dan berikan path yang relevan.
     - Jika tidak ada negara atau produk tersebut di itu maka hanya keluarkan list kosong.
@@ -54,7 +55,7 @@ def create_path_planner():
         template=prompt_template
     )
     
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def create_content_writer():
@@ -67,8 +68,11 @@ def create_content_writer():
     Berdasarkan query berikut: "{query}", gunakan informasi dari context untuk menjawab pertanyaan.
 
     Jika jawaban terdapat dalam context, tulis jawaban tersebut.
-    Jika jawaban mengacu pada sumber eksternal dalam context, sebutkan bahwa jawabannya dapat ditemukan di link tersebut.
+    Jika terdapat link suatu kata maka tuliskan juga linknya
+    Sebutkan jawaban bersumber dari laman resmi INATRIMS
     Jika jawaban tidak ditemukan dalam context, tulis "Jawaban tidak ditemukan dalam context. Untuk informasi lebih lanjut, silahkan cari di lalu sebutkan"
+    Pastikan membaca dengan teliti dulu context yang diberikan
+
 
     Tulis jawaban dalam format Markdown.
     """
@@ -78,7 +82,7 @@ def create_content_writer():
         template=prompt_template
     )
     
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def retrieve_content(paths):

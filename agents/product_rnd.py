@@ -6,7 +6,7 @@ from langchain_core.output_parsers import StrOutputParser
 from IPython.display import display, Markdown
 from tavily import TavilyClient
 import ast
-
+import openai
 # Type Definitions
 class GraphState(TypedDict):
     product_description: str                        
@@ -45,7 +45,7 @@ def create_planner_chain():
     Jawaban: 
     """
     prompt = PromptTemplate(input_variables=["product_description"], template=template)
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def create_tavily_planner_chain(num_query: int = 4):
@@ -72,7 +72,7 @@ def create_tavily_planner_chain(num_query: int = 4):
         input_variables=["product_description", "outline", "context", "iteration_count", "searched_query"],
         template=template
     )
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def create_tavily_retriever(num_results: int):
@@ -93,7 +93,7 @@ def create_tavily_retriever(num_results: int):
                 url = result.get('url', '')
                 content = result.get('content', '')
                 formatted_result = f"{url} - {content}"
-                print(formatted_result)
+                # print(formatted_result)
                 context.append(formatted_result)
                 
         return "\n".join(context)
@@ -118,30 +118,33 @@ def create_grader_chain():
         input_variables=["product_description", "outline", "context"],
         template=template
     )
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
     return prompt | llm | StrOutputParser()
 
-def create_writer_chain():
-    template = """
+def create_writer_chain(primary_model='gpt-4o', fallback_model='gpt-4o-mini'):
+    prompt_template = """
+    <START_PROMPT>
     Deskripsi Produk: {product_description}
     Outline: {outline}
     Informasi Terkumpul (Context): {context}
 
-    Tugas Anda adalah menuliskan laporan akhir berdasarkan outline yang sudah diberikan. Anda perlu menganalisis Deskripsi Produk, Outline, dan Context yang sudah terkumpul untuk menulis laporan. Ikuti instruksi berikut. Informasi ini akan digunakan untuk membantu pengembangan Product-R&D dan peningkatan ekspor:
+    Tugas Anda adalah menuliskan laporan akhir berdasarkan outline yang sudah diberikan. 
+    Ikuti instruksi berikut. Informasi ini akan digunakan untuk membantu Ekspor ke Luar Negeri:
 
     1. Tulis laporan dalam format paragraf untuk setiap bagian outline, tanpa menggunakan bullet point.
     2. Saat mengambil informasi dari Context, sertakan referensi atau sumbernya, tulis dalam hyperlink.
     3. Anda dapat menambahkan analisis tambahan berdasarkan wawasan Anda sendiri, asalkan tetap relevan dan selaras dengan Context yang diberikan.
     4. Pastikan setiap bagian dari laporan sesuai dengan struktur outline yang diberikan.
-    5. Anda harus menulis dalam markdown.
-    6. Fokuskan laporan pada tips inovasi produk, efisiensi produksi, dan peningkatan kualitas produk agar sesuai dengan standar ekspor.
+    5. Anda harus menulis dalam markdown
+    6. Untuk bagian SWOT buat menjadi 4 bagian, untuk bagian STP menjadi 1 paragraf saja
+    <END_PROMPT>
     """
-    prompt = PromptTemplate(
-        input_variables=["product_description", "outline", "context"],
-        template=template
-    )
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    prompt = PromptTemplate(input_variables=["product_description", "outline", "context"], template=prompt_template)
+    llm = ChatOpenAI(model_name=primary_model, temperature=0)
     return prompt | llm | StrOutputParser()
+
+def create_fallback_writer_chain():
+    return create_writer_chain(primary_model='gpt-4o')
 
 def create_workflow(planner_chain, tavily_planner_chain, tavily_retriever_chain, grader_chain, writer_chain, max_iteration: int):
     def planner(state):
@@ -198,14 +201,22 @@ def create_workflow(planner_chain, tavily_planner_chain, tavily_retriever_chain,
 
     def writer(state):
         print('[INFO] ✍️ Memulai proses penulisan laporan akhir (Writer)')
-        result = writer_chain.invoke({
-            'product_description': state['product_description'], 
-            'outline': state['outline'], 
-            'context': state['context']
-        })
-        print('[INFO] 📄 Writer menghasilkan laporan akhir')
-        display(Markdown(result))
-        return {'result': result}
+        try:
+            result = writer_chain.invoke(state)
+            print('[INFO] 📄 Writer menghasilkan laporan akhir')
+            print(result)
+            return {'result': result}
+        except openai.RateLimitError:
+            print('[WARNING] 🚨 Rate limit exceeded on primary model. Switching to fallback model (gpt-4o).')
+            fallback_writer_chain = create_fallback_writer_chain()
+        try:
+            result = fallback_writer_chain.invoke(state)
+            print('[INFO] 📄 Fallback writer menghasilkan laporan akhir')
+            print(result)
+            return {'result': result}
+        except openai.RateLimitError:
+            print('[ERROR] ❌ Rate limit exceeded on both primary and fallback models. Please try again later.')
+            return {'result': None}
 
     def decide_to_continue(state):
         is_continue = state['is_continue']
@@ -242,7 +253,7 @@ def create_workflow(planner_chain, tavily_planner_chain, tavily_retriever_chain,
     
     return workflow.compile()
 
-def product_rnd(product_description: str, num_query: int = 1, num_tavily: int = 5, max_iteration: int = 1):
+def product_rnd(product_description: str, num_query: int = 4, num_tavily: int = 5, max_iteration: int = 4):
     """
     Execute product R&D workflow for export recommendations
     
@@ -277,4 +288,4 @@ def product_rnd(product_description: str, num_query: int = 1, num_tavily: int = 
         for key, value in output.items():
             pass  
 
-product_rnd('rempah rempah khas sumatera',1,5,1)
+product_rnd('Minyak atsiri alami yang diekstraksi dari tumbuhan pilihan untuk menghasilkan aroma yang murni dan berkualitas tinggi.',4,5,4)

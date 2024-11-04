@@ -6,6 +6,8 @@ from langchain_core.output_parsers import StrOutputParser
 from tavily import TavilyClient
 from IPython.display import display, Markdown
 import ast
+import time
+import openai
 
 class GraphState(TypedDict):
     product_description: str
@@ -55,7 +57,7 @@ def create_planner_chain():
     Jawaban: <START_RESPONSE>
     """
     prompt = PromptTemplate(input_variables=["product_description"], template=prompt_template)
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name='gpt-4o', temperature=0)
     return prompt | llm | StrOutputParser()
 
 def create_web_planner_chain(num_query: int = 4):
@@ -98,7 +100,7 @@ def create_grader_chain():
     Periksa tiap bagian dari outline dan pastikan apakah informasi yang dibutuhkan sudah lengkap atau masih ada yang kurang.
 
     Jika semua poin di outline sudah terisi dengan informasi yang sesuai, beri hasil "false". 
-    Jika masih ada poin yang kurang atau belum lengkap, beri hasil "true".
+    Jika masih ada poin yang kurang atau belum lengkap, beri hasil "true". Anda harus memastikan apakah informasi sudah lengkap secare teliti, Jangan terlalu mudah untuk output false
 
     Jawaban dalam format String hanya bisa:
     true atau false
@@ -109,7 +111,8 @@ def create_grader_chain():
     llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
     return prompt | llm | StrOutputParser()
 
-def create_writer_chain():
+
+def create_writer_chain(primary_model='gpt-4o', fallback_model='gpt-4o-mini'):
     prompt_template = """
     <START_PROMPT>
     Deskripsi Produk: {product_description}
@@ -124,12 +127,16 @@ def create_writer_chain():
     3. Anda dapat menambahkan analisis tambahan berdasarkan wawasan Anda sendiri, asalkan tetap relevan dan selaras dengan Context yang diberikan.
     4. Pastikan setiap bagian dari laporan sesuai dengan struktur outline yang diberikan.
     5. Anda harus menulis dalam markdown
-    6. Untuk bagian SWOT buat menjadi 4 bagian, untuk bagian STP menjadi 1 pagaraf saja
+    6. Untuk bagian SWOT buat menjadi 4 bagian, untuk bagian STP menjadi 1 paragraf saja
     <END_PROMPT>
     """
     prompt = PromptTemplate(input_variables=["product_description", "outline", "context"], template=prompt_template)
-    llm = ChatOpenAI(model_name='gpt-4o-mini', temperature=0)
+    llm = ChatOpenAI(model_name=primary_model, temperature=0)
     return prompt | llm | StrOutputParser()
+
+def create_fallback_writer_chain():
+    return create_writer_chain(primary_model='gpt-4o-mini')
+
 
 def create_workflow(tavily_client, num_query: int = 4, num_tavily: int = 5, max_iteration: int = 3):
     planner_chain = create_planner_chain()
@@ -187,10 +194,24 @@ def create_workflow(tavily_client, num_query: int = 4, num_tavily: int = 5, max_
 
     def writer(state):
         print('[INFO] ✍️ Memulai proses penulisan laporan akhir (Writer)')
-        result = writer_chain.invoke(state)
-        print('[INFO] 📄 Writer menghasilkan laporan akhir')
-        display(Markdown(result))
-        return {'result': result}
+        try:
+            result = writer_chain.invoke(state)
+            print('[INFO] 📄 Writer menghasilkan laporan akhir')
+            print(result)
+            return {'result': result}
+        except openai.RateLimitError:
+            print('[WARNING] 🚨 Rate limit exceeded on primary model. Switching to fallback model (gpt-4o-mini).')
+            fallback_writer_chain = create_fallback_writer_chain()
+        try:
+            result = fallback_writer_chain.invoke(state)
+            print('[INFO] 📄 Fallback writer menghasilkan laporan akhir')
+            print(result)
+            return {'result': result}
+        except openai.RateLimitError:
+            print('[ERROR] ❌ Rate limit exceeded on both primary and fallback models. Please try again later.')
+            return {'result': None}
+        # display(Markdown(result))
+
 
     def decide_to_continue(state):
         return 'web_planner' if state['is_continue'] == 'true' else 'writer'
@@ -217,7 +238,7 @@ def create_workflow(tavily_client, num_query: int = 4, num_tavily: int = 5, max_
     
     return workflow.compile()
 
-def market_research(product_description: str, num_query: int = 1, num_tavily: int = 5, max_iteration: int = 1):
+def market_research(product_description: str, num_query: int = 4, num_tavily: int = 5, max_iteration: int = 4):
     """
     Performs market research based on the given query and parameters.
     
@@ -240,4 +261,4 @@ def market_research(product_description: str, num_query: int = 1, num_tavily: in
             pass  # Results are displayed through the workflow's print statements
     
 
-market_research('rempah rempah khas sumatera',1,5,1)
+market_research('Minyak atsiri alami yang diekstraksi dari tumbuhan pilihan untuk menghasilkan aroma yang murni dan berkualitas tinggi.',3,4,3)
